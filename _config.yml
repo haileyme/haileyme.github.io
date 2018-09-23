@@ -103,7 +103,8 @@ analytics:
 # Site Author
 author:
   name             : "Hailey"
-  avatar           : "https://ibb.co/daTb1p" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "![20171111_143233_hdr](https://user-images.githubusercontent.com/42811174/45924969-23dbf100-bf47-11e8-8fdd-e5a50ad0d0ac.jpg)
+" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ground 0"
   location         : "Blue Planet"
   email            :
